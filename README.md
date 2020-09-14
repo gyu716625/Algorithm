@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary> [[LeetCode] Linked List Cycle (JS) - 2020/09/10(목)</summary>
+<summary> [LeetCode] Linked List Cycle (JS) - 2020/09/10(목)</summary>
 <div markdown="1">
  
 #### velog 
@@ -44,4 +44,17 @@
 
 </div>
 </details>
+
+<details>
+<summary> [LeetCode] Rotate Image (JS) - 2020/09/14(월)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-Rotate-Image-JS
+
+</div>
+</details>
+
+
 
