@@ -117,4 +117,16 @@
 </details>
 
 
+----
+
+<details>
+<summary> [LeetCode] Remove Duplicates from Sorted Array(JS) - 2020/12/15(화)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/leetcode-Remove-Duplicates-from-Sorted-Array-JS
+
+</div>
+</details>
 
