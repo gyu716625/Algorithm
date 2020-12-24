@@ -156,3 +156,17 @@
 </div>
 </details>
 
+----
+
+<details>
+<summary> [LeetCode] Single Number(JS) - 2020/12/22(화)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-Single-NumberJS
+
+</div>
+</details>
+
+
