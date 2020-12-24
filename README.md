@@ -169,4 +169,16 @@
 </div>
 </details>
 
+----
+
+<details>
+<summary> [LeetCode] Two Sum (JS) - 2020/12/24(목)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-Two-Sum-JS
+
+</div>
+</details>
 
