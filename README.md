@@ -195,3 +195,16 @@
 </div>
 </details>
 
+----
+
+<details>
+<summary> [LeetCode] First Unique Character in a String(JS) - 2020/12/29(화)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-First-Unique-Character-in-a-StringJS
+
+</div>
+</details>
+
