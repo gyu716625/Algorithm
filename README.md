@@ -208,3 +208,22 @@
 </div>
 </details>
 
+</details>
+
+----
+
+<details>
+<summary> [LeetCode] atoi (JS) - 2021/01/04(월)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-atoi-JS
+
+</div>
+</details>
+
+
+
+
+
