@@ -223,7 +223,18 @@
 </div>
 </details>
 
+----
 
+<details>
+<summary> [LeetCode] Reverse Integer (JS) - 2021/01/05(화)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-Reverse-Integer-JS
+
+</div>
+</details>
 
 
 
