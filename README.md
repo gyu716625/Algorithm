@@ -236,5 +236,17 @@
 </div>
 </details>
 
+----
+
+<details>
+<summary> [LeetCode]Implement strStr() (JS) - 2021/01/06(수)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCodeImplement-strStr-JS
+
+</div>
+</details>
 
 
