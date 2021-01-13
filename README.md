@@ -265,12 +265,25 @@
 ----
 
 <details>
-<summary> [Programmers] 문자열 내 마음대로 정렬하기 (JS) - 2021/01/12()</summary>
+<summary> [Programmers] 문자열 내 마음대로 정렬하기 (JS) - 2021/01/12(화)</summary>
 <div markdown="1">
  
 #### velog 
  
 - https://velog.io/@gyu716625/Programmers-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-JS
+
+</div>
+</details>
+
+----
+
+<details>
+<summary> [Programmers] 체육복 (JS) - 2021/01/13(수)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/Programmers
 
 </div>
 </details>
