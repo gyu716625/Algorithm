@@ -288,4 +288,15 @@
 </div>
 </details>
 
+----
 
+<details>
+<summary> [Programmers] 두 개 뽑아서 더하기 (JS) - 2021/01/15(금)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/Programmers-%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0JS
+
+</div>
+</details>
