@@ -304,7 +304,7 @@
 ----
 
 <details>
-<summary> [Programmers] 모의고사(JS) - 2021/01/18()</summary>
+<summary> [Programmers] 모의고사(JS) - 2021/01/18(월)</summary>
 <div markdown="1">
  
 #### velog 
@@ -313,3 +313,18 @@
 
 </div>
 </details>
+
+----
+
+<details>
+<summary> [Programmers] 크레인 인형뽑기 게임 (JS) - 2021/01/19(화)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/Programmers-%ED%81%AC%EB%A0%88%EC%9D%B8-%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0-%EA%B2%8C%EC%9E%84JS
+
+</div>
+</details>
+
+
