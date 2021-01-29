@@ -341,6 +341,19 @@
 </div>
 </details>
 
+----
+
+<details>
+<summary> [Programmers] 프린터 (JS) - 2021/01/29(금)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/Programmers-%ED%94%84%EB%A6%B0%ED%84%B0
+
+</div>
+</details>
+
 
 
 
