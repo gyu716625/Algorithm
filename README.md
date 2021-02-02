@@ -354,6 +354,19 @@
 </div>
 </details>
 
+----
+
+<details>
+<summary> [Programmers] 기능개발 (JS) - 2021/02/02(화)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/Programmers-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C
+
+</div>
+</details>
+
 
 
 
