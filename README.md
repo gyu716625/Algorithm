@@ -396,7 +396,7 @@
 ----
 
 <details>
-<summary> [Programmers] 같은 숫자는 싫어 - 2021/02/17()</summary>
+<summary> [Programmers] 같은 숫자는 싫어 - 2021/02/17(수)</summary>
 <div markdown="1">
  
 #### velog 
@@ -407,6 +407,22 @@
 </details>
 
 
+----
+
+<details>
+<summary> [프로그래머스] 스킬트리, 두 정수 사이의 합 - 2021/02/18(목)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC
+
+- https://velog.io/@gyu716625/Programmers-%EB%91%90-%EC%A0%95%EC%88%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%ED%95%A9
+
+</div>
+
+
+</details>
 
 
 
