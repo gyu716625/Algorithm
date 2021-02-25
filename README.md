@@ -429,3 +429,17 @@
 
 </details>
 
+<details>
+<summary> [프로그래머스] 제일 작은 수 제거하기 - 2021/02/25(목)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%9C%EC%9D%BC-%EC%9E%91%EC%9D%80-%EC%88%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0
+
+</div>
+
+
+</details>
+
+
