@@ -445,7 +445,7 @@
 </details>
 
 <details>
-<summary> [[프로그래머스] SQL Level1문제 풀기 - 2021/02/26(금)</summary>
+<summary> [프로그래머스] SQL Level1 문제 풀기 - 2021/02/26(금)</summary>
 <div markdown="1">
  
 #### velog 
