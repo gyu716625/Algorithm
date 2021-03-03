@@ -457,7 +457,7 @@
 
 
 <details>
-<summary> [프로그래머스] SQL LEVEL2 - 2021/03/03(금)</summary>
+<summary> [프로그래머스] SQL LEVEL2 - 2021/03/03()</summary>
 <div markdown="1">
  
 #### velog 
