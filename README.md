@@ -442,7 +442,6 @@
 
 </details>
 
-</details>
 
 <details>
 <summary> [프로그래머스] SQL Level1 문제 풀기 - 2021/02/26(금)</summary>
@@ -456,4 +455,16 @@
 
 </details>
 
+
+<details>
+<summary> [프로그래머스] SQL LEVEL2 - 2021/03/03(금)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-SQL-LEVEL2
+</div>
+
+
+</details>
 
