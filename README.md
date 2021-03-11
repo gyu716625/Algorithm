@@ -455,6 +455,18 @@
 
 </details>
 
+<details>
+<summary> [LeetCode] Palindrome Number (JS) - 2021/03/11(목)</summary>
+<div markdown="1">
+ 
+#### velog 
+ 
+- https://velog.io/@gyu716625/LeetCode-Palindrome-Number-JS
+</div>
+
+
+</details>
+
 # SQL
 
 <details>
